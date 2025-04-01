@@ -57,6 +57,5 @@ Module not found	Reinstall dependencies (npm install)
 Invalid package-lock.json	Delete node_modules and package-lock.json → npm install
 Permissions error	Run terminal as Admin (Windows) or use sudo (macOS/Linux)
 ________________________________________
-Need Help?
-Contact [Your Name/Email] or open an issue in the repository.
+
 
